@@ -194,6 +194,4 @@ docker run --rm \
 
 ---
 
-## **Next Step**
 
-Would you like me to **generate this README.md file** and add it directly to your `Round1B_GraphRAG_Solution` folder?
