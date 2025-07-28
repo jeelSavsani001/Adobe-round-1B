@@ -1,0 +1,7 @@
+PyMuPDF==1.23.26
+spacy>=3.7.0,<3.8.0
+networkx>=3.0
+transformers>=4.39.0
+torch==2.1.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy>=1.26.0
