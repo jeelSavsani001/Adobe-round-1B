@@ -1,7 +1,3 @@
-Here’s a **complete README.md** for your solution, including a **detailed approach, idea explanation, setup, and usage instructions**.
-
----
-
 # **GraphRAG: Persona-Driven Document Intelligence**
 
 ## **Overview**
